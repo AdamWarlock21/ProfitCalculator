@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Profit Calculator</string>
+    <string name="menu_title">Profit Calculator</string>
+    <string name="tv_visitor">User\'s name:</string>
+    <string name="bt_next_menu">Next</string>
+    <string name="et_visitor_name">Please enter your name</string>
+    <string name="btn_menu_calculator">Calculation</string>
+    <string name="btn_menu_home">Home</string>
+    <string name="btn_menu_profile">My Profile</string>
+    <string name="btn_menu_about">About Me</string>
+    <string name="btn_calculator_back_menu">Back</string>
+    <string name="tv_calculator_title">Gross Profit</string>
+    <string name="tv_calculator_titlenew">Profit</string>
+    <string name="tv_calculator_titlenewer">Profit Percentage</string>
+    <string name="et_revenue">Enter Total Revenue</string>
+    <string name="et_expenses">Enter Total Expenses</string>
+    <string name="btn_run_formula">Gross Profit</string>
+    <string name="tv_calculation_result">Profit Displays Here</string>
+    <string name="tv_calculation_result2">Profit Percentage Displays Here</string>
+    <string name="btn_menu_back">Back</string>
+    <string name="btn_profile_back">Back</string>
+    <string name="img_profile_picture">Ismail Vardien</string>
+    <string name="tv_profile_title">My Details</string>
+    <string name="tv_user_icon">Ismail Vardien</string>
+    <string name="tv_profile_info">Please contact me on any of these links and I will get back to you as soon as I can:</string>
+    <string name="tv_contact">0743748318</string>
+    <string name="tb_email">213180545@mycput.ac.za</string>
+    <string name="tv_twitter">ivardien21</string>
+    <string name="tv_instagram">ismailvardien</string>
+    <string name="tv_linkedin">www.linkedin.com/in/vardien-ismail</string>
+    <string name="action_settings">25</string>
+</resources>
